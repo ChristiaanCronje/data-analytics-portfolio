@@ -23,42 +23,25 @@ This repository showcases selected analytics projects that turn raw data into in
 
 <img src="https://github.com/ChristiaanCronje/data-analytics-portfolio/blob/main/IGNORE/Headers/Tools%20I%20use.svg" alt="Tools I use" height="25px"/>
 
-*Click each section below to expand*  
+&#8287;&#8287;**Programming Languages**  
+&#8287;&#8287;&#8287;&#8287;• Python  
+&#8287;&#8287;&#8287;&#8287;• SQL
 
-<details>
-<summary>Programming Languages</summary>
-  
-&#8287;&#8287;• Python<br>
-&#8287;&#8287;• SQL
+&#8287;&#8287;**Data Analysis & Visualization**  
+&#8287;&#8287;&#8287;&#8287;• Pandas, NumPy  
+&#8287;&#8287;&#8287;&#8287;• Matplotlib, Seaborn, Tableau
 
-</details>
 
-<details>
-<summary>Data Analysis & Visualization</summary>
-  
-&#8287;&#8287;• Pandas, NumPy<br>
-&#8287;&#8287;• Matplotlib, Seaborn, Tableau
+&#8287;&#8287;**Databases & Data Sources**  
+&#8287;&#8287;&#8287;&#8287;• MySQL, SQLite  
+&#8287;&#8287;&#8287;&#8287;• JSON, CSV
 
-</details>
-
-<details>
-<summary>Databases & Data Sources</summary>
-  
-&#8287;&#8287;• MySQL, SQLite<br>
-&#8287;&#8287;• JSON, CSV
-
-</details>
-
-<details>
-<summary>Core Skills</summary>
-  
-&#8287;&#8287;• Data Cleaning & Preprocessing<br>
-&#8287;&#8287;• Data Analysis<br>
-&#8287;&#8287;• Data Visualization & Dashboards<br>
-&#8287;&#8287;• Reporting & Actionable Insights<br>
-&#8287;&#8287;• Machine Learning<br>
-
-</details>
+&#8287;&#8287;**Core Skills**  
+&#8287;&#8287;&#8287;&#8287;• Data Cleaning & Preprocessing  
+&#8287;&#8287;&#8287;&#8287;• Data Analysis  
+&#8287;&#8287;&#8287;&#8287;• Data Visualization & Dashboards  
+&#8287;&#8287;&#8287;&#8287;• Reporting & Actionable Insights  
+&#8287;&#8287;&#8287;&#8287;• Machine Learning
 
 <h1></h1>
 
