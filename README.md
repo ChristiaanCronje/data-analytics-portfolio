@@ -1,9 +1,9 @@
 <h1 align="center">
-  <img src="https://github.com/ChristiaanCronje/HyperionDev/blob/main/IGNORE/Headers/Heading.svg" alt="Christiaan Cronje"/><br>
+  <img src="https://github.com/ChristiaanCronje/data-analytics-portfolio/blob/main/IGNORE/Headers/Heading.svg" alt="Christiaan Cronje"/><br>
 
 </h1>
 
-<img src="https://github.com/ChristiaanCronje/HyperionDev/blob/main/IGNORE/Headers/About%20Me.svg" alt="About Me" height="25px"/>
+<img src="https://github.com/ChristiaanCronje/data-analytics-portfolio/blob/main/IGNORE/Headers/About%20Me.svg" alt="About Me" height="25px"/>
 
 I help small businesses and online sellers understand their data to make better decisions.  
 I work with Python and SQL to clean messy data, uncover trends, and provide actionable insights through reports and visualizations.  
@@ -13,7 +13,7 @@ This repository showcases selected analytics projects that turn raw data into in
 
 <h1></h1>
 
-<img src="https://github.com/ChristiaanCronje/HyperionDev/blob/main/IGNORE/Headers/Why%20This%20Repository%20Exists.svg" alt="What you'll find here" height="30"/>
+<img src="https://github.com/ChristiaanCronje/data-analytics-portfolio/blob/main/IGNORE/Headers/Why%20This%20Repository%20Exists.svg" alt="What you'll find here" height="30"/>
 
 - Data cleaning and analysis projects
 - Exploratory analysis with actionable insights
@@ -21,7 +21,7 @@ This repository showcases selected analytics projects that turn raw data into in
 
 <h1></h1>
 
-<img src="https://github.com/ChristiaanCronje/HyperionDev/blob/main/IGNORE/Headers/Tools%20I%20use.svg" alt="Tools I use" height="25px"/>
+<img src="https://github.com/ChristiaanCronje/data-analytics-portfolio/blob/main/IGNORE/Headers/Tools%20I%20use.svg" alt="Tools I use" height="25px"/>
 
 *Click each section below to expand*  
 
@@ -62,7 +62,7 @@ This repository showcases selected analytics projects that turn raw data into in
 
 <h1></h1>
 
-<img src="https://github.com/ChristiaanCronje/HyperionDev/blob/main/IGNORE/Headers/Projects.svg" alt="Projects" height="30px"/>
+<img src="https://github.com/ChristiaanCronje/data-analytics-portfolio/blob/main/IGNORE/Headers/Projects.svg" alt="Projects" height="30px"/>
 
 - **Capstone Project - Variables and Control Structures**  
   > Your code is well-structured, with clear comments and descriptive variable names, such as deposit_amount, which improves readability and documentation—well done!
