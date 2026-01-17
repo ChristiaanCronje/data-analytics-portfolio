@@ -47,18 +47,14 @@ This repository showcases selected analytics projects that turn raw data into in
 
 <img src="https://github.com/ChristiaanCronje/data-analytics-portfolio/blob/main/IGNORE/Headers/Projects.svg" alt="Projects" height="30px"/>
 
-- **Databases**  
-  > Fantastic work, Christiaan! You've built a clean, modular, and practical command-line SQL interface that demonstrates solid understanding of databases, query execution, and user interaction. The way you’ve structured your commands and output makes it
-  > intuitiveforusers to retrieve relevant student, course, and review data.
+- **Automobile Data Analysis: Pricing and Fuel Efficiency Insights**  
+  > Analyzed a dataset of automobiles to uncover factors influencing pricing, fuel efficiency, and body styles using Python, Pandas, and visualizations.
 
-- **Data Analysis**  
-  > Thank you for your submission, Christiaan. It is good to note that you explored specific parameters in order to load the dataset into a pandas DataFrame. Well done for calling the lower(), strip() and replace() methods in order to sanitise the data stored within
-  > the 'country' column. Your use of regex and compound expressions is very good.
+- **Movies Dataset EDA: Budget, Revenue, and Popularity Trends**  
+  > Performed exploratory data analysis on movies dataset to examine budget, revenue, profitability, and genre trends.
 
-- **Data Visualisation**  
-  > Fantastic work on your resubmission, Christiaan! The depth of your data exploration is evident in the insightful information you have uncovered. The EDA reports you have produced are well structured and clearly present your findings, and the methods and processes
-  > you have followed.
-  > Well done for ensuring that the datasets were free from duplicate observations, free from inconsistent values and for handling missing values. You have narrowed down your analysis by removing all features that are not required within your analyses.
+- **Penguins Dataset Analysis: Species and Physical Attributes**  
+  > Studied penguin species data to explore physical differences, flipper lengths, and body mass variations across islands and sexes.
 
 <H1></H1><br>
 
