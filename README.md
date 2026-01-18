@@ -57,8 +57,8 @@ This repository showcases selected analytics projects that turn raw data into in
   > Studied penguin species data to explore physical differences, flipper lengths, and body mass variations across islands and sexes.
 
 - **Education Database Query Tool (SQLite, Python)**
-  > Built a command-line application that queries a relational SQLite database containing students, teachers, courses, Reviews and addresses.
-  > Users can retrieve specific information (e.g. student enrollments, address lookups) and export results to JSON or XML formats.
+  > A SQLite-based command-line application that manages student enrollments, course assignments, addresses, and student reviews.
+  > Users can query course participation, teacher assignments, completion status, and review data, with the option to export results to JSON or XML.
   
 <H1></H1><br>
 
