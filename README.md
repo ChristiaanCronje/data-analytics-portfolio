@@ -56,6 +56,10 @@ This repository showcases selected analytics projects that turn raw data into in
 - **Penguins Dataset Analysis: Species and Physical Attributes**  
   > Studied penguin species data to explore physical differences, flipper lengths, and body mass variations across islands and sexes.
 
+- **Education Database Query Tool (SQLite, Python)**
+  > Built a command-line application that queries a relational SQLite database containing students, teachers, courses, Reviews and addresses.
+  > Users can retrieve specific information (e.g. student enrollments, address lookups) and export results to JSON or XML formats.
+  
 <H1></H1><br>
 
 <p align="center">
