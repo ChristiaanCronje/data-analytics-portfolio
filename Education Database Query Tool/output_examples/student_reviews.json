@@ -1,0 +1,16 @@
+[
+    {
+        "completeness": 4,
+        "efficiency": 4,
+        "style": 4,
+        "documentation": 4,
+        "review_text": "Well-documented, lots of comments and very efficient solution."
+    },
+    {
+        "completeness": 3,
+        "efficiency": 2,
+        "style": 3,
+        "documentation": 2,
+        "review_text": "Eh, so-so."
+    }
+]
