@@ -38,7 +38,7 @@ def store_data_as_json(data, filename):
     with open(filename, 'w') as f:
         json.dump(data_list, f, indent=4)
 
-    print(f"Data saved to {filename} (JSON format).")
+    print(f"\nData saved to {filename} (JSON format).")
 
 # These functions store query results in XML format. 
 # They first check if data exists, then extract column names from the 
@@ -63,7 +63,7 @@ def store_data_as_xml(data, filename):
     tree = ET.ElementTree(root)
     tree.write(filename, encoding="utf-8", xml_declaration=True)
 
-    print(f"Data saved to {filename} (XML format).")
+    print(f"\nData saved to {filename} (XML format).")
 
 def offer_to_store(data):
     while True:
@@ -71,7 +71,7 @@ def offer_to_store(data):
         choice = input("Y/[N]? : ").strip().lower()
 
         if choice == "y":
-            filename = input("Specify filename. Must end in .xml or .json: ")
+            filename = input("\nSpecify filename. Must end in .xml or .json: ")
             ext = filename.split(".")[-1]
             if ext == 'xml':
                 store_data_as_xml(data, filename)
