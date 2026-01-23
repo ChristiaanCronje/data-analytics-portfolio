@@ -10,7 +10,7 @@ This project explores a dataset of automobiles with details such as price, make,
 
 <img src="https://github.com/ChristiaanCronje/data-analytics-portfolio/blob/main/IGNORE/Headers/Dataset.svg" alt="Dataset" height="25px"/>
 
-&#8287;&#8287;• `Automobile_data.txt` - contains automobile specifications and pricing details.
+&#8287;&#8287;• `Automobile_data.csv` - contains automobile specifications and pricing details.
 
 <h1></h1>
 
