@@ -39,7 +39,7 @@ The projects cover data cleaning, exploratory data analysis, data visualization,
 &#8287;&#8287;&#8287;&#8287;• Data Cleaning & Preprocessing  
 &#8287;&#8287;&#8287;&#8287;• Data Analysis  
 &#8287;&#8287;&#8287;&#8287;• Data Visualization & Dashboards  
-&#8287;&#8287;&#8287;&#8287;• Reporting & Actionable Insights  
+&#8287;&#8287;&#8287;&#8287;• Data Reporting & Insights  
 &#8287;&#8287;&#8287;&#8287;• Machine Learning
 
 <h1></h1>
@@ -59,8 +59,6 @@ The projects cover data cleaning, exploratory data analysis, data visualization,
   > A SQLite-based command-line application that manages student enrollments, course assignments, addresses, and student reviews.  
   > Users can query course participation, teacher assignments, completion status, and review data, with the option to export results to JSON or XML.
   
-<H1></H1><br>
-
 <H1></H1><br>
 
 <p align="center" style="opacity:0.75; font-size:14px;">
