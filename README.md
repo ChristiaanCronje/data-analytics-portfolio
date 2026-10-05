@@ -14,8 +14,8 @@ The projects cover data cleaning, exploratory data analysis, data visualization,
 <img src="https://github.com/ChristiaanCronje/data-analytics-portfolio/blob/main/IGNORE/Headers/Why%20This%20Repository%20Exists.svg" alt="What you'll find here" height="30"/>
 
 • Data cleaning and analysis projects  
-• Exploratory data analysis
-• Data visualizations and summaries
+• Exploratory data analysis  
+• Data visualizations and summaries  
 • Python and SQL data projects
 
 <h1></h1>
