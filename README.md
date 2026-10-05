@@ -5,19 +5,18 @@
 
 <img src="https://github.com/ChristiaanCronje/data-analytics-portfolio/blob/main/IGNORE/Headers/About%20Me.svg" alt="About Me" height="25px"/>
 
-I help small businesses and online sellers understand their data to make better decisions.  
-I work with Python and SQL to clean messy data, uncover trends, and provide actionable insights through reports and visualizations.  
-My focus is on practical analytics - answering questions like: what’s driving sales, where money is being lost, and what actions to take next.  
+This repository contains projects I completed while developing my skills in Python, SQL, and data analysis.
 
-This repository showcases selected analytics projects that turn raw data into insights clients can act on.
+The projects cover data cleaning, exploratory data analysis, data visualization, and working with databases and structured data.
 
 <h1></h1>
 
 <img src="https://github.com/ChristiaanCronje/data-analytics-portfolio/blob/main/IGNORE/Headers/Why%20This%20Repository%20Exists.svg" alt="What you'll find here" height="30"/>
 
 • Data cleaning and analysis projects  
-• Exploratory analysis with actionable insights  
-• Clear visualizations and summaries suitable for non-technical stakeholders
+• Exploratory data analysis
+• Data visualizations and summaries
+• Python and SQL data projects
 
 <h1></h1>
 
@@ -61,10 +60,6 @@ This repository showcases selected analytics projects that turn raw data into in
   > Users can query course participation, teacher assignments, completion status, and review data, with the option to export results to JSON or XML.
   
 <H1></H1><br>
-
-<strong><p align="center">
-If you’re looking to better understand your data, reach out via my <a href="https://www.upwork.com/freelancers/~015e41ba156152672f">Upwork Profile</a> to discuss how I can help.
-</p></strong>
 
 <H1></H1><br>
 
