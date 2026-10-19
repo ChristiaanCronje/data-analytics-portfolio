@@ -49,22 +49,30 @@ This project uses the Inc. 5000 company dataset to explore company growth, indus
 
 <strong>Company Growth by Industry</strong>
 
-<img src="images/tableau-workspace.png" alt="Company Growth by Industry" width="800"/>
+<img src="images/tableau-workspace.png" alt="Company Growth by Industry" width="60%"/>
+
+<h1></h1>
 
 <strong>Years on the List Distribution</strong>
 
-<img src="images/years-on-list.png" alt="Years on the List Distribution" width="800"/>
+<img src="images/years-on-list.png" alt="Years on the List Distribution" width="50%"/>
+
+<h1></h1>
 
 <strong>Employee Count vs. Company Growth</strong>
 
-<img src="images/employees-vs-growth.png" alt="Employee Count vs. Company Growth" width="800"/>
+<img src="images/employees-vs-growth.png" alt="Employee Count vs. Company Growth" width="50%"/>
+
+<h1></h1>
 
 <strong>IT Companies by State</strong>
 
-<img src="images/it-companies-by-state.png" alt="IT Companies by State" width="800"/>
+<img src="images/it-companies-by-state.png" alt="IT Companies by State" width="50%"/>
+
+<h1></h1>
 
 <strong>City Growth in the USA</strong>
 
-<img src="images/city-growth.png" alt="City Growth in the USA" width="800"/>
+<img src="images/city-growth.png" alt="City Growth in the USA" width="60%"/>
 
 <h1></h1>
