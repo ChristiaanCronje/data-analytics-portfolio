@@ -49,7 +49,7 @@ This project uses the Inc. 5000 company dataset to explore company growth, indus
 
 <strong>Company Growth by Industry</strong>
 
-<img src="./images/growth-by-industry.png" alt="Company Growth by Industry" width="800"/>
+<img src="images/growth-by-industry.png" alt="Company Growth by Industry" width="800"/>
 
 <strong>Years on the List Distribution</strong>
 
